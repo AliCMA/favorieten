@@ -1,3 +1,7 @@
 1 varken
 2 aap
 3 worm
+
+1 gamen
+2 tekenen
+3 zwemmen
